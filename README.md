@@ -1,7 +1,7 @@
 <p align="center">
 	<img src="https://i.pinimg.com/originals/08/84/87/0884879f3bb42f112d326367294abe5d.jpg" width="45%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Doctor Bot</h1>
+<h1 align="center">KNNN Bot</h1>
 
 Bot usando como base a api [`@adiwajshing/baileys-md`](https://github.com/adiwajshing/baileys/tree/multi-device)
 
