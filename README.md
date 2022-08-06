@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://telegra.ph/file/39f83106b3cfe2125c39a.jpg" width="45%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://i.pinimg.com/originals/08/84/87/0884879f3bb42f112d326367294abe5d.jpg" width="45%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Doctor Bot</h1>
 
@@ -15,7 +15,7 @@ Bot usando como base a api [`@adiwajshing/baileys-md`](https://github.com/adiwaj
 
 
 ```bash
-cd DOCTOR_V3
+cd Knnn
 npm install
 ```
 
@@ -27,8 +27,8 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/Zalts-Nodya/zalts/
-cd DOCTOR_V3
+git clone https://github.com/showmanpy/Knnn
+cd Knnn
 npm install
 ```
 
@@ -47,10 +47,5 @@ npm start
 $ node .
 ```
 
-## Agradeciemntos:
-* [`@Zalts`](https://youtube.com/channel/UCA9wcf_1vw4iQwuy3bKK1Ww)
-
-License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
-
 ## Contatos:
-* [`ZALTS`](https://wa.me/556699717091)
+* [`ShowmanKn`](https://wa.me/5565996450169)
