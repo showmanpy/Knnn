@@ -1,0 +1,27 @@
+{
+  "name": "Showman bot",
+  "description": "atualização do Showman bot para md criando a versão 3 do chat bot",
+  "repository": "https://github.com/",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtaBlRR_n7Z6HTpRtBd0qj37O7kdVrhC3HXiEvMab-EnshpdM-H4DZ6Yc&s",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/"
+    },
+    {
+      "url": "https://github.com/"
+    },
+    {
+      "url": "https://github.com/"
+    }
+  ],
+   "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
